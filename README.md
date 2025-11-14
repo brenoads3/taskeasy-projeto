@@ -3,7 +3,7 @@
 **Disciplina:** Prática Profissional em Análise e Desenvolvimento de Sistemas  
 **Instituição:** Universidade Presbiteriana Mackenzie  
 **Iteração:** 1 — Fase de Construção  
-**Desenvolvido por:** Breno ADS  
+**Desenvolvido por:** Breno ADS 
 
 ---
 
