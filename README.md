@@ -43,3 +43,22 @@ O sistema foi desenvolvido em **três camadas principais**:
 
 Atualização realizada no branch iteracao2 para a atividade de controle de versão da disciplina.
 
+## 🧑‍💻 Como executar o projeto em um computador pessoal
+
+Abaixo estão as instruções para que qualquer desenvolvedor consiga baixar e executar a aplicação TaskEasy localmente.
+
+### 1. Pré-requisitos
+
+- Navegador moderno instalado (Chrome, Edge, Firefox ou Safari).
+- Opcional, mas recomendado:  
+  - Git instalado (para clonar o repositório).  
+  - VS Code ou outro editor de código (para visualizar/editar os arquivos).
+
+### 2. Clonar o repositório
+
+No terminal (cmd, PowerShell ou Git Bash), execute:
+
+```bash
+git clone https://github.com/brenoads3/taskeasy-projeto.git
+
+
