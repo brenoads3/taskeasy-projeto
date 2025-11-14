@@ -3,7 +3,7 @@
 **Disciplina:** Prática Profissional em Análise e Desenvolvimento de Sistemas  
 **Instituição:** Universidade Presbiteriana Mackenzie  
 **Iteração:** 1 — Fase de Construção  
-**Desenvolvido por:** Breno ADS  
+**Desenvolvido por:** Breno ADS 
 
 ---
 
@@ -42,3 +42,4 @@ O projeto foi construído com **HTML, CSS e JavaScript puro (sem frameworks)**, 
 O sistema foi desenvolvido em **três camadas principais**:
 
 Atualização realizada no branch iteracao2 para a atividade de controle de versão da disciplina.
+
