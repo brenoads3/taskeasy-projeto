@@ -41,4 +41,4 @@ O projeto foi construído com **HTML, CSS e JavaScript puro (sem frameworks)**, 
 
 O sistema foi desenvolvido em **três camadas principais**:
 
-
+Atualização realizada no branch iteracao2 para a atividade de controle de versão da disciplina.
